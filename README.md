@@ -1,3 +1,3 @@
-# OOPS-Lab
+# OOPS class
 
-Adding more C++ code for OOPS Lab.
+Adding more C++ code for OOPS class.
